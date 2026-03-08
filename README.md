@@ -1,13 +1,13 @@
 # UltimarcMiniPacConfig
 **Currently installed in X Gaming Controller**
 
-##IPAC Mapping Change Log
+## IPAC Mapping Change Log
 
-| Date   | Notes                                                        |
-| ------ | ------------------------------------------------------------ |
-| 3/8/26 | Copied over Rec Room Masters version and then updated based on physical mapping of XGaming Controller. |
-|        |                                                              |
-|        |                                                              |
+| Date            | Notes                                                        |
+| --------------- | ------------------------------------------------------------ |
+| 3/8/26          | Copied over Rec Room Masters version and then updated based on physical mapping of XGaming Controller. |
+| 3/8/26 12:01 PM | Imported latest Rec Room Masters Keyboard config             |
+|                 |                                                              |
 
 
 
