@@ -1,2 +1,2 @@
 # UltimarcMiniPacConfig
-** Currently installed in X Gaming Controller
+**Currently installed in X Gaming Controller**
