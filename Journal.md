@@ -14,3 +14,14 @@ A, B, X
 
 Y, L, R
 
+This video does a good job mapping this and it shows like my current config.  I think it is more becasue of the numbers than then button names.  I.e rather than:
+
+ABX
+
+YLR
+
+it is really:
+
+123
+
+456
